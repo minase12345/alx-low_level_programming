@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFILE -o c[D[D[D[C[C[C[ c
+gcc -E $CFILE -o c[D[D[C[C *.c
